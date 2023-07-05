@@ -1,3 +1,3 @@
+# Assignment1_CharinthipPalmy
 Fintech
-
-add
+ change
