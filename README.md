@@ -11,7 +11,7 @@ _Airwallex_ offers a suite of financial technology software solutions. It allows
 ### Growth
 - Airwallex closed the "second-largest fundraising round in Australian start-up history" in July 2018, netting $80 million
 - In 2018, Airwallex moved headquarters from Melbourne to Hong Kong and turned down a US$1 billion acquisition bid by Stripe
-- in 2021, the company's sales have increased by 184%, ARR has surpassed $200 million in September[3]
+- in 2021, the company's sales have increased by 184%, ARR has surpassed $200 million in September
 - October 2022, was valued at $US5.5 billion ($8.7 billion) following a $US100 million capital raise in this year(2023)
 
 ### Airwallex's Products and services
@@ -48,10 +48,13 @@ Airwallex has provided new start-up business with technology, which is rapid gro
 
 ### FinTech Companies and Domains
 For an overview of some of the most successful companies across FinTech domains, check out these resources:
-- [Australian FinTech: The Future of FinTech][df1]  
+- [Australian FinTech: The Future of FinTech][df1] 
 - https://www.cbinsights.com
 - https://www.investopedia.com
 - https://www.forbes.com
 - https://www.thebankingandfinance
 - https://www.entrepreneur.com
 - https://www.afr.com
+
+
+Charinthip Songprasert(Palmy)
