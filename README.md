@@ -57,4 +57,3 @@ For an overview of some of the most successful companies across FinTech domains,
 - https://www.afr.com
 
 
-Charinthip Songprasert(Palmy)
