@@ -42,7 +42,7 @@ The ESP matrix leverages data and analyst insight to identify and rank leading c
 
 ### Recommendations
 Airwallex has provided new start-up business with technology, which is rapid growth in these days because more and more online-business opening today. Nevertheless, the company's rival has jumped into cryptocurrency payment market, in which domain that the company is not in yet.  
->>>>>>>>>>>>>>>>>>>![Alt](https://static.ffx.io/images/$zoom_0.225%2C$multiply_3%2C$ratio_1.5%2C$width_756%2C$x_0%2C$y_50/t_crop_custom/c_scale%2Cw_1240%2Cq_52%2Cf_auto/0c39bc3f00eb21881c17ea4e3f692c33e5e1161a)
+![Alt](https://static.ffx.io/images/$zoom_0.225%2C$multiply_3%2C$ratio_1.5%2C$width_756%2C$x_0%2C$y_50/t_crop_custom/c_scale%2Cw_1240%2Cq_52%2Cf_auto/0c39bc3f00eb21881c17ea4e3f692c33e5e1161a)
 
 ## Resource
 
